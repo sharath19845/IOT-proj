@@ -1,0 +1,22 @@
+{
+  "UserDetails": [
+    {
+      "UserName": "YWJjZA==",
+      "Password": "YWJjZA==",
+      "OriginIds": [ "Test(329719)" ]
+    },
+    {
+
+      "UserName": "U0NBTk5JTkdBUFA=", //Base64 for SCANNINGAPP
+      "Password": "cGEkJHdvcmQxIQ==", //base64 for pa$$word1!
+      "OriginIds": [ "ACME DISTRIBUTION CENTER(12407)", "YAKIMA HERALD/REPUBLIC(1751)", "MERRIAM WEBSTER INCORPORATED(2033)", "MILLIGAN NEWS COMPANY(2128)" ]
+
+    },
+    {
+      "UserName": "U0NBTk5JTkc=", //Base64 for SCANNING
+      "Password": "c2Nhbm5pbmc=", //Base64 for scanning
+      "OriginIds": [ "REALL BIG NAME ACME DISTRIBUTION CENTER (12407)", "YAKIMA HERALD/REPUBLIC(1751)", "MERRIAM WEBSTER INCORPORATED(2033)", "MILLIGAN NEWS COMPANY(2128)" ]
+    }
+
+  ]
+}
